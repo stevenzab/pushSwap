@@ -1,4 +1,4 @@
-#Epitech Project Tek 1 : Push-swap
+Epitech Project Tek 1 : Push-swap
 
 to launch ./push_swap [number] [number] [number] [number] etc...
 
